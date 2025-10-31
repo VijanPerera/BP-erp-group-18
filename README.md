@@ -86,16 +86,18 @@ Administrators can:
 
 This repository belongs to the following group members:
 
-| Student Name         | Student ID |
+| Name                 | Student ID |
 |----------------------|------------|
-| AGR Chathuranga      | 33051      |
 | RAVM Perera          | 32953      |
-| WMMD Weerasundara    | 32483      |
 | IACS Thilakarathna   | 32231      |
+| AGR Chathuranga      | 33051      |
+| SS Munasinghe        | 32847      |
+| UGU Rashmika         | 32362      |
+| WMMD Weerasundara    | 32483      |
 | MDR Dilinda          | 32218      |
 | AA Anoaf             | 34185      |
 | PMMB Bandara         | 33126      |
-| UGC Rashmika         | 32362      |
+
 ---
 
 
