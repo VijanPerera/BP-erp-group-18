@@ -12,7 +12,9 @@ THE FIGMA PROTOTYPE
 
 The complete, high-fidelity, and interactive prototype is available to view publicly.
 
-Click here to view the 13-screen Figma prototype:
+13-screen Figma prototype:
+
+Figma Link: [https://www.figma.com/design/St3WvF3YhgEubNpKlcEb9Y/erp-new?node-id=0-1&t=s84CwVkb5AodY8Ej-1]
 
 ---
 
