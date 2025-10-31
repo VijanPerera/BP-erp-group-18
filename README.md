@@ -20,7 +20,7 @@ PROJECT OVERVIEW & FEATURES
 
 This UI design translates the complex business logic from the Task 03 report into a clean, usable, and professional desktop application.
 
-Task 03 Report: [ERP Module Analysis Report_ Attendance Tracking (1)](./Task 03 Report.pdf)
+Task 03 Report: [[ERP Module Analysis Report_ Attendance Tracking (1)](https://github.com/VijanPerera/BP-erp-group-18/commit/f7c9773aa26b2543a9f90261e4c4e4857c18afb5)](./Task 03 Report.pdf)
 
 Key Features Designed:
 Separate User Portals: A main portal (Screen 1) directs users to two separate, secure login screens (Screens 2 & 3) for the Lecturer and Administrator roles.
